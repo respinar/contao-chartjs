@@ -1,5 +1,5 @@
 {
-    "name": "respinar/contao-chartjs-bundle",
+    "name": "respinar/contao-chartjs",
     "description": "chartjs for Contao",
     "license": "MIT",
     "type": "contao-bundle",
@@ -11,8 +11,8 @@
     ],
     "homepage": "https://respinar.com",
     "support": {
-        "issues": "https://github.com/contao/contao-chartjs-bundle/issues",
-        "source": "https://github.com/contao/contao-chartjs-bundle"
+        "issues": "https://github.com/contao/contao-chartjs/issues",
+        "source": "https://github.com/contao/contao-chartjs"
     },
     "require": {
         "php": "^8.0",
